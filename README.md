@@ -1,6 +1,6 @@
 # amazon-system-simulator
 
-amazon-system-simulator was a Java project for CPS 209: Computer Science II that was based around a simulation of an e-commerce system like Amazon. A skeleton code was provided and the main goal of the project was to write code to make commands work.
+amazon-system-simulator was a Java project for a computer science course (CPS 209: Computer Science II) that was based around a simulation of an e-commerce system like Amazon. A skeleton code was provided and the main goal of the project was to write code to make commands work.
 
 
   
