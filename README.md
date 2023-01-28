@@ -4,7 +4,7 @@ amazon-system-simulator was a Java project for a computer science course (CPS 20
 
 
   
-  In order to use the project, type in the following commands while being in the project directory:
+  In order to use the project, download it and type in the following commands while being in the project directory:
   > javac ECommerceUserInterface.java
   
   > java ECommerceUserInterface
