@@ -132,27 +132,6 @@ public class ECommerceUserInterface
 					System.out.print("Order #" + newOrder + "\n");
 				}
 			}
-			else if (action.equalsIgnoreCase("ORDERSHOES")) // order shoes for a customer, provide size and color 
-			{
-				String productId = "";
-				String customerId = "";
-				String options = "";
-				
-				System.out.print("Product Id: ");
-				// get product id
-				productId = scanner.nextLine();
-				System.out.print("\nCustomer Id: ");
-				// get customer id
-				customerId = scanner.nextLine();
-				System.out.print("\nSize: \"6\" \"7\" \"8\" \"9\" \"10\": ");
-				// get shoe size and store in options	
-				
-				System.out.print("\nColor: \"Black\" \"Brown\": ");
-				// get shoe color and append to options
-				
-				//order shoes
-			}
-			
 			
 			else if (action.equalsIgnoreCase("CANCEL")) // Cancel an existing order
 			{
