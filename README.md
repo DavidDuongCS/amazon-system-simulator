@@ -9,7 +9,7 @@ This was a Java project for a computer science course (CPS 209: Computer Science
   
   > java ECommerceUserInterface
   
-  From there, you can type in commands that are featured in the ECommerceUserInterface.java file. Their functions are also in the file.
+  From there, you can type in commands that are featured in the ECommerceUserInterface.java file. The purpose of the commands do are also in the file.
   The commands that I have implemented are:
   - CUSTS
   - BOOKS
