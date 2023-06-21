@@ -1,6 +1,6 @@
 # amazon-system-simulator
 
-amazon-system-simulator was a Java project for a computer science course (CPS 209: Computer Science II) that was based around a simulation of an e-commerce system like Amazon. A skeleton code was provided and the main goal of the project was to write code to make commands work.
+This was a Java project for a computer science course (CPS 209: Computer Science II) that was based around a simulation of an e-commerce system like Amazon. A skeleton code was provided and the main goal of the project was to write code in empty functions to make certain commands work.
 
 
   
@@ -9,7 +9,7 @@ amazon-system-simulator was a Java project for a computer science course (CPS 20
   
   > java ECommerceUserInterface
   
-  From there, you can type in commands that are featured in the ECommerceUserInterface.java file.
+  From there, you can type in commands that are featured in the ECommerceUserInterface.java file. Their functions are also in the file.
   The commands that I have implemented are:
   - CUSTS
   - BOOKS
